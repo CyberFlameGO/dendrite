@@ -50,7 +50,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9
 	golang.org/x/mobile v0.0.0-20220518205345-8578da9835fd
-	golang.org/x/net v0.0.0-20220524220425-1d687d428aca
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
 	gopkg.in/h2non/bimg.v1 v1.1.9
 	gopkg.in/yaml.v2 v2.4.0
@@ -102,12 +102,11 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
-	golang.org/x/text v0.3.8-0.20211004125949-5bd84dd9b33b // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
-	golang.org/x/tools v0.1.10 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/macaroon.v2 v2.1.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
