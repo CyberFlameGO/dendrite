@@ -47,11 +47,11 @@ require (
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	github.com/yggdrasil-network/yggdrasil-go v0.4.3
 	go.uber.org/atomic v1.9.0
-	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
+	golang.org/x/crypto v0.14.0
 	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9
 	golang.org/x/mobile v0.0.0-20220518205345-8578da9835fd
-	golang.org/x/net v0.0.0-20220524220425-1d687d428aca
-	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
+	golang.org/x/net v0.17.0
+	golang.org/x/term v0.13.0
 	gopkg.in/h2non/bimg.v1 v1.1.9
 	gopkg.in/yaml.v2 v2.4.0
 	nhooyr.io/websocket v1.8.7
@@ -102,12 +102,11 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
-	golang.org/x/text v0.3.8-0.20211004125949-5bd84dd9b33b // indirect
+	golang.org/x/mod v0.8.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
-	golang.org/x/tools v0.1.10 // indirect
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/macaroon.v2 v2.1.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
