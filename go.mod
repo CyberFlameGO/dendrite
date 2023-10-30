@@ -12,7 +12,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/codeclysm/extract v2.2.0+incompatible
 	github.com/dgraph-io/ristretto v0.1.1-0.20220403145359-8e850b710d6d
-	github.com/docker/docker v20.10.16+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/getsentry/sentry-go v0.13.0
 	github.com/gologme/log v1.3.0
